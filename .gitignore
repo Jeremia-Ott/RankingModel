@@ -44,14 +44,6 @@ x64/
 *.svclog
 *.scc
 
-# Visual C++ cache files
-ipch/
-*.aps
-*.ncb
-*.opensdf
-*.sdf
-*.cachefile
-
 # Visual Studio profiler
 *.psess
 *.vsp
@@ -131,3 +123,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# VS Code
+.vs
